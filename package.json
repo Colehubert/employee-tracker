@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "@inquirer/select": "^0.0.20-alpha.0",
+    "catch-exit": "^1.2.2",
     "console.table": "^0.10.0",
     "dotenv": "^16.0.1",
     "inquirer": "^8.2.4",
